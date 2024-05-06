@@ -34,6 +34,10 @@
     <input type="text" placeholder="Enter Brothername" name="Brothername" id="Brothername" required>
     <br>
 
+    <label for="Sistername"><b>Name</b></label>
+    <input type="text" placeholder="Enter Sistername" name="Sistername" id="Sistername" required>
+    <br>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
