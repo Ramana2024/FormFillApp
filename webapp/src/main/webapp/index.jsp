@@ -30,10 +30,6 @@
     <input type="text" placeholder="Enter FatherName" name="Fathername" id="Fathername" required>
     <br>
 
-    <label for="Brothername"><b>Name</b></label>
-    <input type="text" placeholder="Enter Brothername" name="Brothername" id="Brothername" required>
-    <br>
-
     <label for="Sistername"><b>Name</b></label>
     <input type="text" placeholder="Enter Sistername" name="Sistername" id="Sistername" required>
     <br>
